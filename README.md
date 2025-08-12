@@ -1,8 +1,8 @@
 # House-Data-EDA
 
-# Objective: Perform Exploratory Data Analysis (EDA) on a housing dataset to uncover patterns, trends, and relationships between property features and pricing.
+### Objective: Perform Exploratory Data Analysis (EDA) on a housing dataset to uncover patterns, trends, and relationships between property features and pricing.
 
-# Dataset Overview:
+### Dataset Overview:
 
     Total records: 187,531
     
@@ -10,9 +10,9 @@
     
     Key features: Title, Description, Amount (in rupees), Price (in rupees), Location, Carpet Area, Status, Floor, Transaction, Furnishing, Facing, Overlooking, Bathroom, Balcony, Ownership.
 
-# Data Cleaning & Preprocessing:
+### Data Cleaning & Preprocessing:
 
-  # Handled missing values:
+  ### Handled missing values:
     
         Numerical columns → filled with mean values.
         
@@ -22,7 +22,7 @@
         
         Ensured correct data types for each column.
 
-# Exploratory Data Analysis:
+### Exploratory Data Analysis:
 
     Visualized categorical distributions (e.g., Furnishing, Ownership, Facing).
     
@@ -32,7 +32,7 @@
     
     Examined relationships between features like Carpet Area, Bathrooms, and Price.
 
-# Key Insights:
+### Key Insights:
 
     Most common furnishing types and ownership statuses identified.
     
@@ -40,7 +40,7 @@
     
     Popular facing directions and transaction types highlighted.
 
-# Outcome:
+### Outcome:
 
     Developed a deeper understanding of the housing market.
     
