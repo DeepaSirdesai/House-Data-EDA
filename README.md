@@ -49,11 +49,3 @@
     Generated visual insights for data-driven real estate decision-making.
   
 
-
-
-
-
-
-
-
-Ask ChatGPT
